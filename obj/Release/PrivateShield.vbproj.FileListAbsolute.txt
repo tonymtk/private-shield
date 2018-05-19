@@ -1,0 +1,13 @@
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Release\PrivateShield.frmAbout.resources
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Release\PrivateShield.frmDetected.resources
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Release\PrivateShield.frmNavigator.resources
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Release\PrivateShield.frmVerify.resources
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Release\PrivateShield.Resources.resources
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Release\PrivateShield.vbproj.GenerateResource.Cache
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\bin\Release\PSClient.exe.config
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\bin\Release\PSClient.exe
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\bin\Release\PSClient.pdb
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\bin\Release\PSClient.xml
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Release\PSClient.exe
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Release\PSClient.xml
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Release\PSClient.pdb

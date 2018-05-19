@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 2 98 98" style="enable-background:new 0 2 98 98;" xml:space="preserve" width="512" height="512">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+</style>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="49" y1="101.3" x2="49" y2="7.7786" gradientTransform="matrix(1 0 0 -1 0 104)">
+		<stop offset="0" style="stop-color:#00EFD1"/>
+		<stop offset="1" style="stop-color:#00ACEA"/>
+	</linearGradient>
+	<path class="st0" d="M92.5,45.2H81.8V34.8c0-1.7-1.3-3-3-3h-27v-8.5c3.6-1.2,6.2-4.6,6.2-8.5c0-5-4-9-9-9s-9,4-9,9   c0,3.8,2.4,7.1,5.8,8.4v8.6h-27c-1.7,0-3,1.3-3,3v10.4H5.5c-1.7,0-3,1.3-3,3v26c0,1.7,1.3,3,3,3h10.3v16.1c0,1.7,1.3,3,3,3h60   c1.7,0,3-1.3,3-3V77.2h10.7c1.7,0,3-1.3,3-3v-26C95.5,46.5,94.2,45.2,92.5,45.2z M49,11.8c1.7,0,3,1.3,3,3s-1.3,3-3,3s-3-1.3-3-3   S47.3,11.8,49,11.8z M8.5,71.2v-20h7.3v20H8.5z M58.8,90.2h-20V78.8h20V90.2z M75.8,90.2h-11V75.8c0-1.7-1.3-3-3-3h-26   c-1.7,0-3,1.3-3,3v14.5h-11V37.8h54V90.2z M89.5,71.2h-7.7v-20h7.7V71.2z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="37" y1="101.3" x2="37" y2="7.7786" gradientTransform="matrix(1 0 0 -1 0 104)">
+		<stop offset="0" style="stop-color:#00EFD1"/>
+		<stop offset="1" style="stop-color:#00ACEA"/>
+	</linearGradient>
+	<path class="st1" d="M37,60.8c5,0,9-4,9-9s-4-9-9-9s-9,4-9,9C28,56.7,32,60.8,37,60.8z M37,48.8c1.7,0,3,1.3,3,3c0,1.7-1.3,3-3,3   s-3-1.3-3-3C34,50.1,35.3,48.8,37,48.8z"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="61" y1="101.3" x2="61" y2="7.7786" gradientTransform="matrix(1 0 0 -1 0 104)">
+		<stop offset="0" style="stop-color:#00EFD1"/>
+		<stop offset="1" style="stop-color:#00ACEA"/>
+	</linearGradient>
+	<path class="st2" d="M61,60.8c5,0,9-4,9-9s-4-9-9-9s-9,4-9,9C52,56.7,56,60.8,61,60.8z M61,48.8c1.7,0,3,1.3,3,3c0,1.7-1.3,3-3,3   s-3-1.3-3-3C58,50.1,59.3,48.8,61,48.8z"/>
+</g>
+</svg>

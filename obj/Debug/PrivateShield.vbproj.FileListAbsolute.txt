@@ -1,0 +1,37 @@
+c:\users\vinicius\documents\visual studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.frmSplashScreen.resources
+c:\users\vinicius\documents\visual studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.Resources.resources
+c:\users\vinicius\documents\visual studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.vbproj.GenerateResource.Cache
+c:\users\vinicius\documents\visual studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.frmDetected.resources
+C:\Users\Vinicius\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.vbprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.vbproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\bin\Debug\PrivateShieldClient.exe.config
+C:\Users\Vinicius\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\bin\Debug\PrivateShieldClient.exe
+C:\Users\Vinicius\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\bin\Debug\PrivateShieldClient.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\bin\Debug\PrivateShieldClient.xml
+C:\Users\Vinicius\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShieldClient.exe
+C:\Users\Vinicius\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShieldClient.xml
+C:\Users\Vinicius\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShieldClient.pdb
+C:\Users\KingCoder\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\bin\Debug\PrivateShieldClient.exe.config
+C:\Users\KingCoder\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShieldClient.exe
+C:\Users\KingCoder\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShieldClient.xml
+C:\Users\KingCoder\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShieldClient.pdb
+C:\Users\KingCoder\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\bin\Debug\PrivateShieldClient.exe
+C:\Users\KingCoder\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\bin\Debug\PrivateShieldClient.pdb
+C:\Users\KingCoder\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\bin\Debug\PrivateShieldClient.xml
+C:\Users\KingCoder\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.frmDetected.resources
+C:\Users\KingCoder\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.frmVerify.resources
+C:\Users\KingCoder\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.Resources.resources
+C:\Users\KingCoder\Documents\Visual Studio 2012\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.vbproj.GenerateResource.Cache
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.frmAbout.resources
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.frmDetected.resources
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.frmVerify.resources
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.Resources.resources
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.vbproj.GenerateResource.Cache
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Debug\PrivateShield.frmNavigator.resources
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\bin\Debug\PSClient.exe.config
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\bin\Debug\PSClient.exe
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\bin\Debug\PSClient.pdb
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\bin\Debug\PSClient.xml
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Debug\PSClient.exe
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Debug\PSClient.xml
+C:\Users\KingCoder\Dropbox\Projects\PrivateShield\PrivateShield\obj\Debug\PSClient.pdb
